@@ -2,7 +2,7 @@
 
 ## 💻 Full stack Web Developer
 - 👨🏻‍🍳 I work for MyCompany (<a href="https://mycater.fr/">MyCater</a>, <a href="https://www.mytraiteur.com/">MyTraiteur</a>).
-- 👨🏻‍🎓 I am a Full stack Web Developer in Master 1 (Bac+4).
+- 👨🏻‍🎓 I am a Full stack Web Developer in Master (Bac+5).
 - 📧 How to reach me: <a href="mailto:oberle.glenn@icloud.com">oberle.glenn@icloud.com</a> or <a href="https://www.linkedin.com/in/glenn-oberl%C3%A9/">Glenn Oberlé</a> on LinkedIn
 
 ### Stacks :
