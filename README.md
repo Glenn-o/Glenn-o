@@ -1,11 +1,12 @@
-### Hi there, I'm Glenn 👋
+### Bienvenue sur mon profil, moi c'est Glenn 👋
 
-## 💻 Full stack Web Developer
-- 👨🏻‍🍳 I work for MyCompany (<a href="https://mycater.fr/">MyCater</a>, <a href="https://www.mytraiteur.com/">MyTraiteur</a>).
-- 👨🏻‍🎓 I am a Full stack Web Developer in Master (Bac+5).
-- 📧 How to reach me: <a href="mailto:oberle.glenn@icloud.com">oberle.glenn@icloud.com</a> or <a href="https://www.linkedin.com/in/glenn-oberl%C3%A9/">Glenn Oberlé</a> on LinkedIn
+## 💻 Développeur Web FullStack
+- 👨🏻‍🍳 Je travail pour MyCompany (<a href="https://mycater.fr/">MyCater</a>, <a href="https://www.mytraiteur.com/">MyTraiteur</a>).
+- 👨🏻‍🎓 Je suis développeur web FullStack en alternance en Mastère (Bac+5).
+- 📧 Pour me contacter: <a href="mailto:oberle.glenn@icloud.com">oberle.glenn@icloud.com</a> ou <a href="https://www.linkedin.com/in/glenn-oberl%C3%A9/">Glenn Oberlé</a> sur LinkedIn
+- 💼 Pour bénéficier de mes services : <a href="https://www.malt.fr/profile/glennoberle">Glenn Oberlé</a>
 
-### Stacks :
+### Mes compétences :
 <div>
   <img align="left" alt="adonisjs" width="40px" src="img/adonisjs.png" />
   <img align="left" alt="typescript" width="40px" src="img/typescript.png" />
