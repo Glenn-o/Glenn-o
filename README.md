@@ -11,7 +11,7 @@
   <img align="left" alt="adonisjs" width="40px" src="img/adonisjs.png" />
   <img align="left" alt="typescript" width="40px" src="img/typescript.png" />
   <img align="left" alt="javascript" width="40px" src="img/javascript.png" />
-  <img align="left" alt="nextjs" width="40px" src="img/next.png" />
+  <img align="left" alt="nextjs" width="40px" src="img/nextjs.png" />
   <img align="left" alt="vuejs" width="40px" src="img/vuejs.png" />
   <img align="left" alt="php" width="40px" src="img/php.webp" />
   <img align="left" alt="html" width="40px" src="img/html.svg" />
