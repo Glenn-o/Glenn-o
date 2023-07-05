@@ -8,11 +8,11 @@
 
 ### Mes compétences :
 <div>
-  <img align="left" alt="adonisjs" width="40px" src="img/adonisjs.png" />
+  <a target="_blank" href="https://adonisjs.com"><img align="left" alt="adonisjs" width="40px" src="img/adonisjs.png" /></a>
   <img align="left" alt="typescript" width="40px" src="img/typescript.png" />
   <img align="left" alt="javascript" width="40px" src="img/javascript.png" />
-  <img align="left" alt="nextjs" width="40px" src="img/nextjs.png" />
-  <img align="left" alt="vuejs" width="40px" src="img/vuejs.png" />
+  <a target="_blank" href="https://nextjs.org"><img align="left" alt="nextjs" width="40px" src="img/nextjs.png" /></a>
+  <a target="_blank" href="https://vuejs.org"><img align="left" alt="vuejs" width="40px" src="img/vuejs.png" /></a>
   <img align="left" alt="php" width="40px" src="img/php.webp" />
   <img align="left" alt="html" width="40px" src="img/html.svg" />
   <img align="left" alt="css" width="40px" src="img/css3.svg" />
